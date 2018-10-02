@@ -20,7 +20,7 @@ h2 {
     color: darkblue;
 }
 
-span p {
+.color {
     background-color: antiquewhite;
     color: darkred;
 }
